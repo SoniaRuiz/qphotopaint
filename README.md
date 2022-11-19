@@ -23,6 +23,17 @@ A pop-up window will then appear, displaying the video image being captured from
 This feature allows copying the selected region of interest (ROI) to a new image. If the original image does not have a ROI selected, this option will copy the entire image.
 
 ![Capture from camera](README_screenshots/image2.png)
+![Capture from camera](README_screenshots/image3.png)
+
+### Drawing a rainbow
+![Capture from camera](README_screenshots/image4.png)
+
+## 'False color' palette
+
+This feature allows transforming an image with three grayscale channels to a second image with a "spectrum" style of false color palette.
+
+![Capture from camera](README_screenshots/image5.png)
+![Capture from camera](README_screenshots/image6.png)
 
 
 
